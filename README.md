@@ -6,12 +6,3 @@ Stk_unpacker is a command line tool written in C++ for extracting resources from
    stk_unpacker.exe <input_stk_pak_file> <output_directory>
     ```
 4. Extracted files will be in <output_directory>.
----
-## Распаковщик .STK для Shiva3D
-Stk_unpacker - это инструмент коммандной строки написанный на C++ для извлечения ресурсов из .stk архивов, которые используются в Shiva3D играх.
-## Использование
-1. Получите .stk файл.
-2. ```bash
-   stk_unpacker.exe <input_stk_pak_file> <output_directory>
-    ```
-4. Извлеченные файлы будут в <output_directory>.
